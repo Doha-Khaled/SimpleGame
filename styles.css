@@ -1,0 +1,25 @@
+.btn {
+		background-color: #E6E4E2;
+		color: #660000;
+		font-weight: bold;
+		padding: 13px 15px;
+		border-radius: 8px;
+		text-align: center;
+		font-size: 20px;
+		margin: 4px 2px;
+		cursor: pointer;
+		}
+.openning{
+	margin-top: 80px;
+	color:#660000; 
+	font-weight: bold;
+	font-size: 50px;
+}
+.iput{
+	text-align: center;
+}
+.edit{
+	color: #660000;
+	font-size: 20px;
+
+}
